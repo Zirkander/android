@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Map of the Movies</string>
+    <string name="launcher_name">MOTM</string>
+    <string name="about_app">About App</string>
+    <string name="version">Version</string>
+    <string name="_1_0">1.0</string>
+    <string name="genterix_llc">Genterix LLC</string>
+    <string name="humboldt_del_norte_film_commission"><a href="https://hdnfc.org/">Humboldt Del-Norte Film Commission</a></string>
+    <string name="developed_by_genterix">Developed by Genterix</string>
+    <string name="privacy_policy"><a href="https://genterix.com/motm/privacy/">Privacy Policy</a></string>
+    <string name="thanks_to">Thanks To</string>
+    <string name="Tap">tap</string>
+</resources>

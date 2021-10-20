@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Accomodations for Map of the Movies</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Best Western Plus Bayshore Inn</name>
+        <description><![CDATA[3500 Broadway St, Eureka, CA 95503<br>www.bestwestern.com<br>+1 707-268-8005]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1910022,40.775556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comfort Inn Humboldt Bay</name>
+        <description><![CDATA[4260 Broadway St, Eureka, CA 95503<br>www.choicehotels.com<br>+1 707-444-2019]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.19198,40.7677851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Holiday Inn Express & Suites Eureka]]></name>
+        <description><![CDATA[815 W Wabash Ave, Eureka, CA 95501<br>www.ihg.com<br>+1 707-269-0682]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.179732,40.7912152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Best Western Plus Humboldt Bay Inn</name>
+        <description><![CDATA[232 W 5th St, Eureka, CA 95501<br>www.humboldtbayinn.com<br>+1 707-443-2234]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.174373,40.800933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eureka Inn Trademark By Wyndham</name>
+        <description><![CDATA[518 7th St, Eureka, CA 95501<br>www.eurekainn.com<br>+1 707-497-6093]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1653707,40.8001062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carter House Inns</name>
+        <description><![CDATA[301 L St, Eureka, CA 95501<br>www.carterhouse.com<br>+1 800-404-1390]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1595893,40.8042916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hampton Inn & Suites Arcata, CA]]></name>
+        <description><![CDATA[4750 Valley W Blvd, Arcata, CA 95521<br>www.hilton.com<br>+1 707-822-5896]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0825161,40.9016173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Lion Hotel Eureka</name>
+        <description><![CDATA[1929 4th St, Eureka, CA 95501<br>www.redlion.com<br>+1 707-445-0844]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.150233,40.8053536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarion Hotel By Humboldt Bay</name>
+        <description><![CDATA[2223 4th St, Eureka, CA 95501<br>www.choicehotels.com<br>+1 408-414-7988]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1476899,40.804966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Inn at 2nd & C]]></name>
+        <description><![CDATA[124 C St, Eureka, CA 95501<br>www.historiceaglehouse.com<br>+1 707-444-3344]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1700502,40.8042817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bayview Motel</name>
+        <description><![CDATA[2844 Fairfield St, Eureka, CA 95501<br>www.bayviewmotel.com<br>+1 707-442-1673]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1825959,40.7826777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Motel 6 Arcata, CA - Humboldt University</name>
+        <description><![CDATA[4755 Valley W Blvd, Arcata, CA 95521<br>www.motel6.com<br>+1 707-822-7061]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0842285,40.9015712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Best Western Arcata Inn</name>
+        <description><![CDATA[4827 Valley W Blvd, Arcata, CA 95521<br>www.bestwestern.com<br>+1 707-826-0313]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0837706,40.9021792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Roof Inn Arcata</name>
+        <description><![CDATA[4975 Valley W Blvd, Arcata, CA 95521<br>www.redroof.com<br>+1 707-633-6148]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0837831,40.9038673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ramada by Wyndham Arcata</name>
+        <description><![CDATA[3535 Janes Rd, Arcata, CA 95521<br>www.wyndhamhotels.com<br>+1 707-822-0409]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0903967,40.9028804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Holiday Inn Express & Suites Arcata/Eureka-Airport Area]]></name>
+        <description><![CDATA[3107 Concorde Dr, McKinleyville, CA 95519<br>www.ihg.com<br>+1 707-840-9305]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1109797,40.9682113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coho Cottages</name>
+        <description><![CDATA[76 Willow Rd, Willow Creek, CA 95573<br>www.cohocottages.com<br>+1 530-629-4000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.6331918,40.9412058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Victorian Inn</name>
+        <description><![CDATA[400 Ocean Ave, Ferndale, CA 95536<br>www.victorianvillageinn.com<br>+1 707-786-4949]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2648597,40.5755049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gingerbread Mansion Inn</name>
+        <description><![CDATA[400 Berding St, Ferndale, CA 95536<br>www.gingerbread-mansion.com<br>+1 707-786-4000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2625633,40.5756955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ivanhoe Hotel, Restaurant & Saloon]]></name>
+        <description><![CDATA[315 Main St, Ferndale, CA 95536<br>www.hotel-ivanhoe.com<br>+1 707-786-9000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2648332,40.5758904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ye Olde Danish Inn</name>
+        <description><![CDATA[132 Ocean Ave, Ferndale, CA 95536<br>www.ferndaledanishinn.com<br>+1 707-786-4743]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2685146,40.5759035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>THE REDWOOD RIVERWALK HOTEL</name>
+        <description><![CDATA[1859 Alamar Way, Fortuna, CA 95540<br>www.theredwoodhotel.com<br>+1 707-725-5500]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1529537,40.5782811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Best Western Country Inn</name>
+        <description><![CDATA[2025 Riverwalk Dr, Fortuna, CA 95540<br>www.bestwestern.com<br>+1 707-725-6822]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1520186,40.5771214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Super 8 by Wyndham Fortuna</name>
+        <description><![CDATA[1805 Alamar Way, Fortuna, CA 95540<br>www.wyndhamhotels.com<br>+1 707-682-5103]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1529545,40.578697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Comfort Inn & Suites Redwood Country]]></name>
+        <description><![CDATA[1583 Riverwalk Dr, Fortuna, CA 95540<br>www.fortunacomfortinn.com<br>+1 707-725-7025]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.154278,40.5786303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inn of the Lost Coast</name>
+        <description><![CDATA[205 Wave Dr, Whitethorn, CA 95589<br>www.innofthelostcoast.com<br>+1 888-570-9676]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0784292,40.034627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Shelter Cove Oceanfront Inn</name>
+        <description><![CDATA[26 Seal Dr, Whitethorn, CA 95589<br>www.oceanfrontinnsc.com<br>+1 707-986-7002]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0710277,40.022732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benbow Historic Inn</name>
+        <description><![CDATA[445 Lake Benbow Dr, Garberville, CA 95542<br>www.benbowinn.com<br>+1 707-923-2124]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.789982,40.0675152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holiday Inn Express Klamath - Redwood Ntl Park Area</name>
+        <description><![CDATA[171 Klamath Blvd, Klamath, CA 95548<br>www.ihg.com<br>+1 707-482-1777]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0393516,41.5295782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Historic Requa Inn</name>
+        <description><![CDATA[451 Requa Rd, Klamath, CA 95548<br>www.requainn.com<br>+1 707-482-1425]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0647386,41.547134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gold River Lodge</name>
+        <description><![CDATA[200 Hughes Rd, Klamath, CA 95548<br>www.goldriverlodge.com<br>+1 541-254-4171]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.061382,41.547626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Motel Trees</name>
+        <description><![CDATA[15495 US-101, Klamath, CA 95548<br>www.moteltrees.com<br>+1 707-482-3152]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0872184,41.5838216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oceanfront Lodge</name>
+        <description><![CDATA[100 A St, Crescent City, CA 95531<br>www.oceanfrontlodge1.com<br>+1 707-465-5400]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2031306,41.747531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ocean View Inn</name>
+        <description><![CDATA[270 US-101, Crescent City, CA 95531<br>www.oceanviewinncrescentcity.com<br>+1 707-465-1111]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1893763,41.7524575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Quality Inn & Suites Crescent City Redwood Coast]]></name>
+        <description><![CDATA[100 Walton St, Crescent City, CA 95531<br>www.choicehotels.com<br>+1 707-464-3885]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1856543,41.7512408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Best Western Plus Northwoods Inn</name>
+        <description><![CDATA[655 US-101 S, Crescent City, CA 95531<br>www.bestwestern.com<br>+1 707-464-9771]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1818455,41.7508588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Lighthouse Inn</name>
+        <description><![CDATA[681 Highway 101 South, Crescent City, CA 95531<br>www.thelighthouseinncrescentcity.com<br>+1 707-464-3993]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.181245,41.750175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Curly Redwood Lodge</name>
+        <description><![CDATA[701 US-101, Crescent City, CA 95531<br>www.curlyredwoodlodge.com<br>+1 707-464-2137]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1795714,41.7492272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anchor Beach Inn Crescent City</name>
+        <description><![CDATA[880 US-101 S, Crescent City, CA 95531<br>www.anchorbeachinn.com<br>+1 707-464-2600]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1784861,41.7464944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westward Inn - Crescent City</name>
+        <description><![CDATA[725 US-101, Crescent City, CA 95531<br>www.westwardinn.com<br>+1 707-464-6106]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1960086,41.763592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spyglass Inn at Shelter Cove</name>
+        <description><![CDATA[118 Dolphin Dr, Whitethorn, CA 95589<br>www.spyglassinnatsheltercove.com<br>+1 707-986-4030]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0776005,40.036161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Town House Motel - Historic Old Town</name>
+        <description><![CDATA[933 4th St, Eureka, CA 95501<br>www.eurekatownhousemotel.com<br>+1 707-443-4536]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1609604,40.8037621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Super 8 by Wyndham Eureka</name>
+        <description><![CDATA[1304 4th St, Eureka, CA 95501<br>www.wyndhamhotels.com<br>+1 707-443-3193]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1569486,40.8037291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seadrift Inn</name>
+        <description><![CDATA[2014 4th St, Eureka, CA 95501<br>www.seadriftinn.com<br>+1 707-444-0401]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1498661,40.8045646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quality Inn Eureka - Redwoods Area</name>
+        <description><![CDATA[1209 4th St, Eureka, CA 95501<br>www.choicehotels.com<br>+1 707-443-1601]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.157981,40.804325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Motel 6 Eureka, CA</name>
+        <description><![CDATA[1934 Broadway St, Eureka, CA 95501<br>www.motel6.com<br>+1 707-445-9631]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1802597,40.7899818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Days Inn by Wyndham Eureka CA</name>
+        <description><![CDATA[270 5th St, Eureka, CA 95501<br>www.wyndhamhotels.com<br>+1 707-443-2206]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1682829,40.8013306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Americas Best Value Inn & Suites Eureka]]></name>
+        <description><![CDATA[129 4th St, Eureka, CA 95501<br>www.redlion.com<br>+1 707-443-9751]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1698474,40.8026372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elk Meadow Cabins</name>
+        <description><![CDATA[7 Valley Green Camp Rd, Orick, CA 95555<br>www.elkmeadowcabins.com<br>+1 800-544-0300]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0373753,41.3244707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Widow White Creek RV Park</name>
+        <description><![CDATA[1085 Murray Rd, McKinleyville, CA 95519<br>+1 707-839-1137]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1136847,40.9575076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sounds of the Sea R.V. Park & Cabins]]></name>
+        <description><![CDATA[3443 Patricks Point Dr, Trinidad, CA 95570<br>www.soundsofthesea.us<br>+1 707-677-3271]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1557056,41.1230037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hidden Creek RV Park</name>
+        <description><![CDATA[199 N Westhaven Dr, Trinidad, CA 95570<br>www.jacobycreekrealestate.com<br>+1 707-268-0442]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1374893,41.0620918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Elk Country RV Resort & Campground]]></name>
+        <description><![CDATA[216 Idlewood Ln, Trinidad, CA 95570<br>www.elkcountryrvresort.com<br>+1 707-488-2181]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0880362,41.2237055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azalea Glen Rv Park Campground</name>
+        <description><![CDATA[3883 Patricks Point Dr, Trinidad, CA 95570<br>www.azaleaglen.com<br>+1 707-677-3068]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1528084,41.1298877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sylvan Harbor RV Park & Cabins]]></name>
+        <description><![CDATA[875 Patricks Point Dr, Trinidad, CA 95570<br>www.campnative.com<br>+1 707-677-9988]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1439896,41.0753936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Emerald Forest Cabins & RV]]></name>
+        <description><![CDATA[753 Patricks Point Dr, Trinidad, CA 95570<br>www.emeraldforestcabins.com<br>+1 707-677-3554]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1439311,41.0724241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bishop Pine Lodge</name>
+        <description><![CDATA[1481 Patricks Point Dr, Trinidad, CA 95570<br>+1 707-677-3314]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1492023,41.0866238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Turtle Rocks Oceanfront Inn</name>
+        <description><![CDATA[3392 Patricks Point Dr, Trinidad, CA 95570<br>www.turtlerocksinn.com<br>+1 707-677-3707]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.156982,41.121679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Lost Whale Inn Oceanfront B&B]]></name>
+        <description><![CDATA[3452 Patricks Point Dr, Trinidad, CA 95570<br>www.lostwhaleinn.com<br>+1 707-677-3425]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1569167,41.1227417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>View Crest Lodge</name>
+        <description><![CDATA[3415 Patricks Point Dr, Trinidad, CA 95570<br>www.viewcrestlodge.com<br>+1 707-677-3393]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1563178,41.122019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trinidad Inn</name>
+        <description><![CDATA[1170 Patricks Point Dr, Trinidad, CA 95570<br>www.trinidadinn.com<br>+1 707-677-3349]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1479125,41.0805816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patricks Point Inn</name>
+        <description><![CDATA[3602 Patricks Point Dr, Trinidad, CA 95570<br>+1 707-677-3483]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.15672,41.1250766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ocean Grove Lodge</name>
+        <description><![CDATA[480 Patricks Point Dr, Trinidad, CA 95570<br>www.pages.suddenlink.net/oceangrove/<br>+1 707-677-3543]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1430724,41.0678993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandy Bar Ranch</name>
+        <description><![CDATA[797 Ishi-Pishi Rd, Orleans, CA 95556<br>www.sandybar.com<br>+1 530-627-3379]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.5281113,41.3127892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marble Mountain Ranch</name>
+        <description><![CDATA[92520 CA-96, Somes Bar, CA 95568<br>www.marblemountainranch.com<br>+1 530-469-3322]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.5014144,41.4715938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>China Creek Cottages</name>
+        <description><![CDATA[40526 CA-299, Willow Creek, CA 95573<br>www.chinacreekcottages.com<br>+1 530-629-3355]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.6219069,40.9209163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bigfoot Motel</name>
+        <description><![CDATA[39039 CA-299, Willow Creek, CA 95573<br>www.bigfootmotel.com<br>+1 530-629-2142]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.6306721,40.9393982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riverwalk RV Park</name>
+        <description><![CDATA[2189 Riverwalk Dr, Fortuna, CA 95540<br>www.riverwalkrvpark.com<br>+1 707-725-3359]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1510409,40.5763399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[River's Edge RV Park]]></name>
+        <description><![CDATA[620 Davis St, Rio Dell, CA 95562<br>www.riversedgepark.com<br>+1 707-764-5420]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0919318,40.5010656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shaw House Inn</name>
+        <description><![CDATA[703 Main St, Ferndale, CA 95536<br>www.shawhouse.com<br>+1 707-786-9958]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2621724,40.5790013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Redwood Suites Hotel</name>
+        <description><![CDATA[332 Ocean Ave, Ferndale, CA 95536<br>www.redwoodsuites.com<br>+1 707-786-5000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.265729,40.575863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giant Redwoods RV and Cabin Destination</name>
+        <description><![CDATA[400 Myers Ave, Myers Flat, CA 95554<br>www.giantredwoodsrv.com<br>+1 707-943-9999]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -123.877983,40.261646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benbow KOA Holiday</name>
+        <description><![CDATA[7000 Benbow Dr, Garberville, CA 95542<br>www.koa.com<br>+1 707-923-2777]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.78698,40.068215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Redcrest Resort</name>
+        <description><![CDATA[26459 Avenue of the Giants, Redcrest, CA 95569<br>www.redcrestresort.com<br>+1 707-722-4208]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.9499216,40.4012491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miranda Gardens Resort</name>
+        <description><![CDATA[6766 Avenue of the Giants, Miranda, CA 95553<br>www.mirandagardens.com<br>+1 707-943-3011]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8247946,40.2358163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dean Creek Resort Motel and Campground and RV Park</name>
+        <description><![CDATA[4112 Redwood Dr, Redway, CA 95560<br>www.deancreekresort.com<br>+1 707-923-2555]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8104078,40.1407506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Myers Inn</name>
+        <description><![CDATA[12913 Avenue of the Giants, Myers Flat, CA 95554<br>www.myersinn.com<br>+1 707-943-3259]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8726549,40.2668268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Tides Inn</name>
+        <description><![CDATA[59 Surf Point, Whitethorn, CA 95589<br>www.sheltercovetidesinn.com<br>+1 707-986-7900]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.071967,40.022929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sherwood Forest Motel</name>
+        <description><![CDATA[814 Redwood Dr, Garberville, CA 95542<br>www.sherwoodforestmotel.org<br>+1 707-923-2721]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7959653,40.0998516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Humboldt Redwoods Inn</name>
+        <description><![CDATA[987 Redwood Dr, Garberville, CA 95542<br>www.humboldtredwoodsinn.com<br>+1 707-923-2451]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7946245,40.0965319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Humboldt Gables Motel</name>
+        <description><![CDATA[40 W Davis St, Rio Dell, CA 95562<br>www.humboldtgablesmotel.com<br>+1 707-764-5609]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1068253,40.4994605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mad River Rapids RV Park</name>
+        <description><![CDATA[3501 Janes Rd, Arcata, CA 95521<br>www.madriverrv.com<br>+1 707-822-7275]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0892494,40.9020463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lady Anne Victorian Inn</name>
+        <description><![CDATA[902 14th St, Arcata, CA 95521<br>+1 707-822-2797]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.086491,40.873595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Super 8 by Wyndham Arcata</name>
+        <description><![CDATA[4887 Valley W Blvd, Arcata, CA 95521<br>www.wyndhamhotels.com<br>+1 707-388-8922]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0841568,40.9025224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fairwinds Motel</name>
+        <description><![CDATA[1674 G St, Arcata, CA 95521<br>www.fairwindsmotelarcata.com<br>+1 707-822-4824]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.083296,40.87482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Days Inn & Suites Arcata]]></name>
+        <description><![CDATA[4701 Valley W Blvd, Arcata, CA 95521<br>www.daysinnarcata.com<br>+1 707-826-2827]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0842988,40.9012881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comfort Inn Arcata-Humboldt Area</name>
+        <description><![CDATA[4700 Valley W Blvd, Arcata, CA 95521<br>www.choicehotels.com<br>+1 707-826-9660]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0827484,40.9013671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Best Western Plus Humboldt House Inn</name>
+        <description><![CDATA[701 Redwood Dr, Garberville, CA 95542<br>www.humboldthouseinn.com<br>+1 707-923-2771]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.794328,40.101955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shoreline RV Park</name>
+        <description><![CDATA[2600 North 6th Street, Eureka, CA 95501<br>www.shorelinervpark.com<br>+1 707-443-2222]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1428839,40.8034344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Third Street Suites</name>
+        <description><![CDATA[1228 3rd St, Eureka, CA 95501<br>www.thirdstreetsuites.com<br>+1 707-443-3001]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.158036,40.804523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Patrick Creek Lodge & Historical Inn]]></name>
+        <description><![CDATA[13950 US-199, Gasquet, CA 95543<br>www.patrickcreeklodge.com<br>+1 707-457-3323]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8445617,41.8751481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/about"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".ui.AboutActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="70dp">
+
+        <TextView
+            android:id="@+id/editTextTextPersonName"
+            android:layout_width="411dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:background="@color/black"
+            android:ems="5"
+            android:text="@string/about_app"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="#FFFFFF" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <!--    <ImageButton-->
+    <!--        android:id="@+id/mom"-->
+    <!--        android:layout_width="75dp"-->
+    <!--        android:layout_height="78dp"-->
+    <!--        android:layout_marginStart="25dp"-->
+    <!--        android:layout_marginLeft="25dp"-->
+    <!--        android:layout_marginTop="88dp"-->
+    <!--        android:background="@android:color/transparent"-->
+    <!--        android:contentDescription="Click here to go to Humboldt Del-Norte Film Commission site"-->
+    <!--        android:scaleType="fitXY"-->
+    <!--        android:src="@drawable/hdnfc" />-->
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/hfc"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:layout_marginTop="88dp"
+        android:background="@color/black"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/motm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="188dp"
+        android:background="@color/black"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/version"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="250dp"
+        android:background="@color/black"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_anchor="@+id/version"
+        app:layout_anchorGravity="center" />
+
+    <TextView
+        android:id="@+id/mapotmovies"
+        android:layout_width="wrap_content"
+        android:layout_height="49dp"
+        android:layout_marginTop="188dp"
+        android:background="@color/black"
+        android:ems="10"
+        android:gravity="center|fill_horizontal"
+        android:text="@string/app_name"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="#FFFFFF"
+        app:layout_anchor="@+id/mapotmovies"
+        app:layout_anchorGravity="center" />
+
+    <TextView
+        android:id="@+id/genterix"
+        android:layout_width="146dp"
+        android:layout_height="51dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="188dp"
+        android:background="@color/black"
+        android:ems="10"
+        android:gravity="center|fill_horizontal"
+        android:text="@string/genterix_llc"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/ver"
+        android:layout_width="146dp"
+        android:layout_height="41dp"
+        android:layout_gravity="start"
+        android:layout_marginTop="250dp"
+        android:background="@color/black"
+        android:ems="10"
+        android:gravity="center|fill_horizontal"
+        android:text="@string/version"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/vers"
+        android:layout_width="146dp"
+        android:layout_height="45dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="250dp"
+        android:background="@color/black"
+        android:ems="10"
+        android:gravity="center|fill_horizontal"
+        android:text="@string/_1_0"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="#FFFFFF" />
+
+    <ImageButton
+        android:id="@+id/hdnf"
+        android:layout_width="63dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="92dp"
+        android:layout_marginLeft="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/hdnfc"
+        android:layout_marginStart="10dp" />
+
+    <TextView
+        android:id="@+id/hdnfc"
+        android:layout_width="334dp"
+        android:layout_height="78dp"
+        android:layout_marginStart="85dp"
+        android:layout_marginLeft="85dp"
+        android:layout_marginTop="88dp"
+        android:gravity="center|fill_horizontal"
+        android:text="@string/humboldt_del_norte_film_commission"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:linksClickable="true"
+        android:textColor="#FFFFFF"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/developed"
+        android:layout_width="412dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="300dp"
+        android:background="#000000"
+        android:gravity="center|fill_horizontal"
+        android:text="@string/developed_by_genterix"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/privacy"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:layout_marginTop="350dp"
+        android:background="#000000"
+        android:gravity="center|fill_horizontal"
+        android:text="@string/privacy_policy"
+        android:linksClickable="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/thanks"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:layout_marginTop="400dp"
+        android:background="#000000"
+        android:gravity="center|fill_horizontal"
+        android:text="@string/thanks_to"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="#ffffff" />
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

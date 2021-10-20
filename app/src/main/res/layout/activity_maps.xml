@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.MapsActivity">
+
+<!--    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--        xmlns:app-"http://schemas.android.com/apk/res-auto"-->
+<!--        xmlns:-->
+<!--        android:id="@+id/layoutMenu"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentEnd="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:background="@drawable/bg_cir"-->
+<!--        android:paddingStart="50dp"-->
+<!--        android:paddingLeft="50dp"-->
+<!--        android:paddingTop="50dp"-->
+<!--        android:paddingEnd="10dp"-->
+<!--        android:paddingRight="10dp"-->
+<!--        android:paddingBottom="10dp"-->
+<!--        android:layout_marginBottom="50dp"-->
+<!--        android:layout_alignParentRight="true">-->
+
+<!--        <com.google.android.material.floatingactionbutton.FloatingActionButton-->
+<!--            android:id="@+id/menuBtn"-->
+<!--            style="@style/Widget.Design.FloatingActionButton"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_margin="5dp"-->
+<!--            android:contentDescription="@null"-->
+<!--            android:src="@drawable/bg_menu"-->
+<!--            app:backgroundTint="@color/blue_200"-->
+<!--            app:elevation="5dp"-->
+<!--            app:fabSize="normal"-->
+<!--            app:layout_constraintBottom_toBottomOf="parent"-->
+<!--            app:layout_constraintEnd_toEndOf="parent"-->
+<!--            app:layout_constraintStart_toStartOf="parent"-->
+<!--            app:layout_constraintTop_toTopOf="parent" />-->
+
+<!--        <com.google.android.material.floatingactionbutton.FloatingActionButton-->
+<!--            android:id="@+id/bg_menu"-->
+<!--            style="@style/Widget.Design.FloatingActionButton"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_alignParentEnd="true"-->
+<!--            android:layout_alignParentRight="true"-->
+<!--            android:layout_marginEnd="355dp"-->
+<!--            android:layout_marginRight="355dp"-->
+<!--            android:contentDescription="@null"-->
+<!--            app:backgroundTint="@color/white"-->
+<!--            app:fabSize="normal"-->
+<!--            app:layout_constraintCircle="@id/bg_menu" />-->
+
+<!--    </androidx.constraintlayout.widget.ConstraintLayout>-->
+
+    <com.sothree.slidinguppanel.SlidingUpPanelLayout
+        android:id="@+id/sliding_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom"
+        app:umanoPanelHeight="68dp"
+        app:umanoShadowHeight="4dp">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <fragment
+                android:id="@+id/map"
+                android:name="com.google.android.gms.maps.SupportMapFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".ui.MapsActivity" />
+
+            <ImageButton
+                android:id="@+id/recenterButton"
+                android:layout_width="143dp"
+                android:layout_height="101dp"
+                android:layout_gravity="top"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="30dp"
+                android:background="@android:color/transparent"
+                android:scaleType="fitXY"
+                android:src="@drawable/momoverlay"
+                tools:ignore="SpeakableTextPresentCheck"
+                android:layout_marginStart="5dp" />
+
+            <ImageButton
+                android:id="@+id/infoButton"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="top|end"
+                android:layout_marginTop="30dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@android:color/transparent"
+                android:scaleType="fitXY"
+                android:src="@drawable/infosquarefill"
+                tools:layout_gravity="end|top" />
+
+            <ImageButton
+                android:id="@+id/openerButton"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="top|end"
+                android:layout_marginTop="65dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@android:color/transparent"
+                android:scaleType="fitXY"
+                android:src="@drawable/stripes"
+                tools:layout_gravity="end|top" />
+
+<!--            <ListView-->
+<!--                android:id="@+id/list"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="0dp"-->
+<!--                android:layout_weight="1" />-->
+
+            <ImageButton
+                android:id="@+id/foodButton"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="top|end"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@android:color/black"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/momfood" />
+
+            <ImageButton
+                android:id="@+id/hotelButton"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="top|end"
+                android:layout_marginTop="135dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@android:color/black"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/momsuitcase" />
+
+            <ImageButton
+                android:id="@+id/movieButton"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="top|end"
+                android:layout_marginTop="170dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@android:color/black"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/asset1" />
+
+        </FrameLayout>
+
+        <LinearLayout
+            android:id="@+id/dragView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:focusable="false"
+            android:clickable="true"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="68dp"
+                android:orientation="horizontal"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp">
+
+                <SearchView
+                    android:id="@+id/searchView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:queryHint="Search Locations" />
+
+                <TextView
+                    android:id="@+id/drawerTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="@string/app_name"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <!--                <View-->
+                <!--                    android:layout_width="0dp"-->
+                <!--                    android:layout_height="match_parent"-->
+                <!--                    android:layout_weight="3"/>-->
+
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/list"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+    </com.sothree.slidinguppanel.SlidingUpPanelLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <!--                <TextView-->
+    <!--                    android:id="@+id/name"-->
+    <!--                    android:layout_width="0dp"-->
+    <!--                    android:layout_height="match_parent"-->
+    <!--                    android:layout_weight="1"-->
+    <!--                    android:textSize="14sp"-->
+    <!--                    android:gravity="center_vertical"-->
+    <!--                    android:paddingLeft="10dp"/>-->
+
+
+    <!--                <EditText-->
+    <!--                    android:id="@+id/searchEditText"-->
+    <!--                    android:layout_width="0dp"-->
+    <!--                    android:layout_height="match_parent"-->
+    <!--                    android:layout_weight="7"-->
+    <!--                    android:hint="Search Locations"-->
+    <!--                    android:imeOptions="actionDone"-->
+    <!--                    android:inputType="textFilter" />-->

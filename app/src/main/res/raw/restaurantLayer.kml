@@ -1,0 +1,3196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Restaurant Layer for Map of the Movies App</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name><![CDATA[Alta's Burger Bar]]></name>
+        <description><![CDATA[109 S Fred D Haight Dr, Smith River, CA 95567<br>www.altas-burger-bar.poi.place<br>+1 707-487-9191]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1457569,41.9266032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lolita's Taqueria]]></name>
+        <description><![CDATA[N., 10700 US-101, Smith River, CA 95567<br>+1 707-487-0881]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1649936,41.9331229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>House of Howonquet Restaurant</name>
+        <description><![CDATA[350 N Indian Rd, Smith River, CA 95567<br>www.house-of-howonquet.edan.io<br>+1 707-487-7777]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.203473,41.9566179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sea West</name>
+        <description><![CDATA[6655 Lake Earl Dr, Crescent City, CA 95531<br>+1 707-487-1573]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.150709,41.8646795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gordi Bro's Grub 'N Pub]]></name>
+        <description><![CDATA[4301 Lake Earl Dr, Crescent City, CA 95531<br>www.gordibros.com<br>+1 707-464-1325]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1650848,41.8228111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Historic Hiouchi Cafe</name>
+        <description><![CDATA[2095 US-199, Crescent City, CA 95531<br>www.hiouchicafe.com<br>+1 707-458-3445]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.072204,41.7927093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ARTS BBQ</name>
+        <description><![CDATA[132 E Washington Blvd, Crescent City, CA 95531<br>www.facebook.com/artsbarbecue/<br>+1 707-460-1691]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2030772,41.7730519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Cristina's]]></name>
+        <description><![CDATA[237 Price Mall, Crescent City, CA 95531<br>+1 707-464-9213]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1956402,41.7527961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kin Khao Thai Eatery</name>
+        <description><![CDATA[1270 Front St ste c, Crescent City, CA 95531<br>+1 707-460-6611]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1927006,41.75351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Perlita's Authentic Mexican]]></name>
+        <description><![CDATA[297 US-101, Crescent City, CA 95531<br>+1 707-465-6770]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1889835,41.7532593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Fisherman's Restaurant]]></name>
+        <description><![CDATA[700 US-101, Crescent City, CA 95531<br>www.facebook.com/Fishermans-Restaurant-133758016701690/<br>+1 707-465-3474]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.180454,41.748589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Schmidt's House of Jambalaya]]></name>
+        <description><![CDATA[110 Anchor Way, Crescent City, CA 95531<br>www.jambalaya.house<br>+1 707-465-1465]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1798888,41.744954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chart Room Restaurant</name>
+        <description><![CDATA[130 Anchor Way, Crescent City, CA 95531<br>www.ccchartroom.com<br>+1 707-464-5993]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.181052,41.743717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SeaQuake Brewing</name>
+        <description><![CDATA[400 Front St, Crescent City, CA 95531<br>www.seaquakebrewing.com<br>+1 707-465-4444]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1997994,41.7496327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Port O'Pints Brewing Co.]]></name>
+        <description><![CDATA[1215 Northcrest Dr, Crescent City, CA 95531<br>www.portopints.com<br>+1 707-460-1154]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1984401,41.7674899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[C C Diner & Ice Cream]]></name>
+        <description><![CDATA[1319 Northcrest Dr, Crescent City, CA 95531<br>www.facebook.com/CCDINERANDICECREAM/<br>+1 707-465-5858]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.199088,41.770168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cazadores</name>
+        <description><![CDATA[1461 Northcrest Dr, Crescent City, CA 95531<br>www.cazadoresmexicanrestaurant.com<br>+1 707-464-2388]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1996559,41.7718669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toreros Famosos</name>
+        <description><![CDATA[400 US-101, Crescent City, CA 95531<br>+1 707-464-5712]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1982501,41.7607148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>China Hut</name>
+        <description><![CDATA[928 9th St, Crescent City, CA 95531<br>+1 707-464-4921]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.20065,41.756978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Perlita's Authentic Mexican]]></name>
+        <description><![CDATA[297 US-101, Crescent City, CA 95531<br>+1 707-465-6770]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1889835,41.7532593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crescent Seafood</name>
+        <description><![CDATA[170 Marine Way, Crescent City, CA 95531<br>www.crescentseafood.net<br>+1 707-460-1115]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1821354,41.7466698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forest Cafe</name>
+        <description><![CDATA[15499 US-101, Klamath, CA 95548<br>www.forestcafe.net<br>+1 707-482-5585]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.086553,41.5836659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodland Villa Cabins - Restaurant - Market</name>
+        <description><![CDATA[15870 US-101 N, Klamath, CA 95548<br>www.woodlandvillacabins.com<br>+1 707-482-2081]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0746037,41.5784156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Historic Requa Inn</name>
+        <description><![CDATA[451 Requa Rd, Klamath, CA 95548<br>www.requainn.com<br>+1 707-482-1425]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0647386,41.547134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abalone Bar and Grill</name>
+        <description><![CDATA[171 Klamath Blvd, Klamath, CA 95548<br>www.redwoodhotelcasino.com<br>+1 707-482-1777]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0393028,41.5294565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rods N Reels Burgers</name>
+        <description><![CDATA[156 Klamath Blvd, Klamath, CA 95548<br>+1 707-482-1221]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0392725,41.5306034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Country Club</name>
+        <description><![CDATA[156 Klamath Blvd, Klamath, CA 95548<br>+1 707-482-3275]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0392363,41.5307125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Chester's Chicken ~ Pem-Mey Express]]></name>
+        <description><![CDATA[125 Ehlers Ave, Klamath, CA 95548<br>www.yuroktribe.org<br>+1 707-482-0359]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0406708,41.5310847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Log Cabin Diner</name>
+        <description><![CDATA[301 CA-169, Klamath, CA 95548<br>www.logcabindiner.net<br>+1 707-482-0400]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.032711,41.5222173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Smokin' Grill]]></name>
+        <description><![CDATA[18151 Hwy 101 Hwy, Klamath, CA 95548<br>+1 707-482-5741]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0364851,41.5207182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Steelhead Lodge</name>
+        <description><![CDATA[330 Terwer Riffle Rd, Klamath, CA 95548<br>www.thesteelheadlodge.com<br>+1 707-482-8145]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.9897842,41.510437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snack Shack</name>
+        <description>12079 Redwood Hwy, Orick, CA 95555</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0611362,41.2857605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Larrupin' Cafe]]></name>
+        <description><![CDATA[1658 Patricks Point Dr, Trinidad, CA 95570<br>www.thelarrupin.com<br>+1 707-677-0230]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1514003,41.0898504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seascape Restaurant</name>
+        <description><![CDATA[Bay St, Trinidad, CA 95570<br>www.seascape-trinidad.com<br>+1 707-677-3762]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1475224,41.0564498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trinidad Bay Eatery and Gallery</name>
+        <description><![CDATA[607 Parker St, Trinidad, CA 95570<br>www.trinidadeatery.com<br>+1 707-677-3777]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.14345,41.059081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beachcomber Cafe</name>
+        <description><![CDATA[363 Trinity St, Trinidad, CA 95570<br>www.beachcombertrinidad.com<br>+1 707-677-0106]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1429389,41.0603194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Lighthouse Grill</name>
+        <description><![CDATA[355 Main St, Trinidad, CA 95570<br>www.trinidadlighthousegrill.com<br>+1 707-677-0077]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.140195,41.0614093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Headies Pizza and Pour</name>
+        <description><![CDATA[359 Main St, Trinidad, CA 95570<br>www.headiespizzaandpour.com<br>+1 707-677-3077]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1399053,41.0611133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunrise Grill</name>
+        <description>27 Scenic Dr, Trinidad, CA 95570</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1285891,41.0532735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunset Restaurant</name>
+        <description><![CDATA[27 Scenic Dr, Trinidad, CA 95570<br>www.cheraeheightscasino.com<br>+1 707-825-2770]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1293311,41.0534972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moonstone Grill</name>
+        <description><![CDATA[100 Moonstone Beach Rd, Trinidad, CA 95570<br>+1 707-677-1616]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1103694,41.028873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Speedy Taco Truck #2</name>
+        <description><![CDATA[McKinleyville, CA 95519<br>www.facebook.com/pages/Speedy-Taco/421099024742406<br>+1 707-499-0159]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1014328,40.9540405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Papa Wheelies</name>
+        <description><![CDATA[1584 Reasor Rd, McKinleyville, CA 95519<br>www.papawheeliespub.com<br>+1 707-630-5084]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1012624,40.954016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Smug's Pizza-McKinleyville]]></name>
+        <description><![CDATA[2720 Central Ave Suite C, McKinleyville, CA 95519<br>www.smugs-pizza-mckinleyville.business.site<br>+1 707-839-7684]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.101425,40.9549346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sushi Spot McKinleyville</name>
+        <description><![CDATA[1552 City Center Rd, McKinleyville, CA 95519<br>www.sushispotarcata.com<br>+1 707-839-1222]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.10127,40.942794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Niveen's Restaurant]]></name>
+        <description><![CDATA[2145 Central Ave, McKinleyville, CA 95519<br>www.niveensrestaurant.com<br>+1 707-839-3417]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1004693,40.9427642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central Sandwich</name>
+        <description><![CDATA[2011 Central Ave, McKinleyville, CA 95519<br>www.centralsandwich.com<br>+1 707-839-8900]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1004453,40.9417868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Luzmila's Mexican Restaurant]]></name>
+        <description><![CDATA[1751 Central Ave, McKinleyville, CA 95519<br>www.facebook.com/luzmilasmexicanrestaurant/<br>+1 707-839-1624]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1005303,40.9371997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Carmela's Mexican Restaurant]]></name>
+        <description><![CDATA[1701 Central Ave, McKinleyville, CA 95519<br>www.eatcarmelas.com<br>+1 707-839-2435]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1005053,40.9363324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LoCo Fish Co. McKinleyville</name>
+        <description><![CDATA[1300 Central Ave, McKinleyville, CA 95519<br>www.locofishco.com<br>+1 707-572-6019]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1002005,40.9260124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McIntosh Farm Country Store</name>
+        <description><![CDATA[1264 Giuntoli Ln, Arcata, CA 95521<br>www.mcintoshfarm.com<br>+1 707-822-0487]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0778699,40.9052862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Toni's 24 Hour Restaurant]]></name>
+        <description><![CDATA[1901 Heindon Rd, Arcata, CA 95521<br>www.tonisrestaurant.com<br>+1 707-822-0091]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0871599,40.9028281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Obento</name>
+        <description><![CDATA[100 Ericson Ct, Arcata, CA 95521<br>www.obentohumboldt.com<br>+1 707-206-8038]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0708068,40.9039879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Valley Azteca Restaurant</name>
+        <description><![CDATA[5000 Valley W Blvd #4646, Arcata, CA 95521<br>+1 707-826-0723]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0817368,40.9042536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oriental Buffet</name>
+        <description><![CDATA[5000 Valley W Blvd, Arcata, CA 95521<br>www.orientalbuffetca.com<br>+1 707-822-2286]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0818025,40.9035439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riptide Cafe</name>
+        <description><![CDATA[5750 Valley E Blvd, Arcata, CA 95521<br>www.riptidecafe.com<br>+1 707-442-8528]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0809317,40.9047673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taqueria La Barca</name>
+        <description><![CDATA[5201 Carlson Park Dr # 4, Arcata, CA 95521<br>+1 707-499-3576]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0777592,40.9057919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Fiesta Grill & Cantina]]></name>
+        <description><![CDATA[3525 Janes Rd, Arcata, CA 95521<br>+1 707-822-4600]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.090693,40.902152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kebab Cafe</name>
+        <description><![CDATA[5000 Valley W Blvd Ste 19, Arcata, CA 95521<br>www.kebabcafearcata.com<br>+1 707-826-2121]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0816673,40.9033254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pepper's Arcata]]></name>
+        <description><![CDATA[5000 Valley W Blvd #1, Arcata, CA 95521<br>+1 707-826-0607]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0822738,40.9043884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Almas Mexican Food</name>
+        <description><![CDATA[1225 Giuntoli Ln, Arcata, CA 95521<br>+1 707-822-1200]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.080564,40.9046814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tacos La Bonita</name>
+        <description><![CDATA[1499 Spear Ave, Arcata, CA 95521<br>+1 707-502-4996]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0870971,40.8900642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Blondies Food & Drink]]></name>
+        <description><![CDATA[420 California Ave, Arcata, CA 95521<br>www.blondiesfoodanddrink.com<br>+1 707-822-3453]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0797196,40.8833339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sushi Tao</name>
+        <description><![CDATA[768 18th St, Arcata, CA 95521<br>www.sushitaotogo.com<br>+1 707-826-1988]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0838429,40.8762615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wildflower Café and Bakery</name>
+        <description><![CDATA[1604 G St, Arcata, CA 95521<br>www.wildflowercafebakery.com<br>+1 707-822-0360]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0836018,40.8744459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Northtown Coffee</name>
+        <description><![CDATA[1603 G St, Arcata, CA 95521<br>www.organicnorthtown.com<br>+1 707-633-6187]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.083889,40.874693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Japhy's Soup & Noodles]]></name>
+        <description><![CDATA[1563 G St, Arcata, CA 95521<br>www.japhys.com<br>+1 707-826-2594]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.084077,40.874178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pho Hoang</name>
+        <description><![CDATA[1390 G St, Arcata, CA 95521<br>www.phohoangandteaarcata.com<br>+1 707-822-2227]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0841045,40.8726045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Carmela's Mexican Restaurant]]></name>
+        <description><![CDATA[1288 G St, Arcata, CA 95521<br>www.eatcarmelas.com<br>+1 707-822-5200]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0844641,40.8718171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Roman's Kitchen]]></name>
+        <description><![CDATA[1301 D St, Arcata, CA 95521<br>www.romanskitchen.com<br>+1 707-407-9750]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0816052,40.8715885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Arcata Pizza & Deli]]></name>
+        <description><![CDATA[1057 H St, Arcata, CA 95521<br>www.arcatapizza.com<br>+1 707-822-4650]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0864509,40.870316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arcata Scoop</name>
+        <description><![CDATA[1068 I St, Arcata, CA 95521<br>+1 707-825-7266]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.087167,40.870523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Bagels</name>
+        <description><![CDATA[1061 I St, Arcata, CA 95521<br>www.losbagels.com<br>+1 707-822-3150]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0875857,40.870593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SALT Fish House</name>
+        <description><![CDATA[935 I St, Arcata, CA 95521<br>www.saltfishhouse.com<br>+1 707-630-5300]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0879007,40.869908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Don's Donuts Pizza & Deli]]></name>
+        <description><![CDATA[933 H St, Arcata, CA 95521<br>+1 707-822-6465]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0869444,40.8694444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Campground</name>
+        <description><![CDATA[865 9th St, Arcata, CA 95521<br>www.campgroundarcata.com<br>+1 707-630-5148]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.087514,40.868958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sushi Spot Arcata</name>
+        <description><![CDATA[670 9th St #101, Arcata, CA 95521<br>www.sushispotarcata.com<br>+1 707-822-1221]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.085383,40.86883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rita's Margaritas & Mexican Grill]]></name>
+        <description><![CDATA[855 8th St, Arcata, CA 95521<br>www.facebook.com/RitasArcata/<br>+1 707-822-1010]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0877979,40.8681959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Café Brio</name>
+        <description><![CDATA[791 G St, Arcata, CA 95521<br>www.cafebrioarcata.com<br>+1 707-822-5922]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.086346,40.867961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Renata's Creperie]]></name>
+        <description><![CDATA[1030 G St, Arcata, CA 95521<br>www.renatascreperie.com<br>+1 707-825-8783]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0852861,40.8698167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Alibi</name>
+        <description><![CDATA[744 9th St, Arcata, CA 95521<br>www.thealibi.com<br>+1 707-822-3731]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0862301,40.8690832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[T's North]]></name>
+        <description><![CDATA[860 10th St, Arcata, CA 95521<br>+1 707-826-2133]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0873817,40.8701342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Humboldt Brews LLC</name>
+        <description><![CDATA[856 10th St, Arcata, CA 95521<br>www.humbrews.com<br>+1 707-826-2739]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0871451,40.8702149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Burger Joint</name>
+        <description><![CDATA[835 J St, Arcata, CA 95521<br>www.facebook.com/theburgerjointarcata/<br>+1 707-630-5144]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0894444,40.8688889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Local Cider Bar</name>
+        <description><![CDATA[828 I St, Arcata, CA 95521<br>www.thelocalciderbar.com<br>+1 707-630-5100]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0879414,40.868729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slice Of Humboldt Pie</name>
+        <description><![CDATA[828 I St, Arcata, CA 95521<br>www.sliceofhumboldtpie.com<br>+1 707-630-5100]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0877027,40.8686946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Septentrio Winery</name>
+        <description><![CDATA[650 6th St, Arcata, CA 95521<br>www.septentriowinery.com<br>+1 707-672-2058]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0858064,40.8668003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jitter Bean Coffee Co</name>
+        <description><![CDATA[900 G St #102, Arcata, CA 95521<br>www.jitterbeancoffee.com<br>+1 707-822-0671]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.085599,40.868929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tomo | Japanese Restaurant</name>
+        <description><![CDATA[708 9th St, Arcata, CA 95521<br>www.tomoarcata.com<br>+1 707-822-1414]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.085907,40.868981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taqueria La Barca #2 Taco Truck</name>
+        <description><![CDATA[764 9th St, Arcata, CA 95521<br>+1 707-572-8670]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0863517,40.8691748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[nori sushi grill & sake bar]]></name>
+        <description><![CDATA[761 8th St, Arcata, CA 95521<br>www.nori-sushi-grill-sake-bar.business.site<br>+1 707-630-4217]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0866654,40.8679758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Grill</name>
+        <description><![CDATA[780 7th St, Arcata, CA 95521<br>www.plazagrillarcata.com<br>+1 707-826-0860]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0871375,40.8677916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Jam</name>
+        <description><![CDATA[915 H St, Arcata, CA 95521<br>www.thejamarcata.com<br>+1 707-822-5266]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.086915,40.8693404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Don's Donuts Pizza & Deli]]></name>
+        <description><![CDATA[933 H St, Arcata, CA 95521<br>+1 707-822-6465]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0869444,40.8694444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Smug's Pizza]]></name>
+        <description><![CDATA[1034 G St, Arcata, CA 95521<br>www.smugs-pizza-arcata.business.site<br>+1 707-822-1927]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0850435,40.8698416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dead Reckoning Tavern</name>
+        <description><![CDATA[815 J St, Arcata, CA 95521<br>www.deadreckoningtavern.com<br>+1 707-630-5008]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0892817,40.8688381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Pub at The Creamery</name>
+        <description><![CDATA[824 L St suite a, Arcata, CA 95521<br>+1 707-630-5178]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0914457,40.8697934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafe Presto</name>
+        <description>1288 9th St, Arcata, CA 95521</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0916927,40.8701817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Dutchy's Pizza]]></name>
+        <description><![CDATA[1116 11th St, Arcata, CA 95521<br>www.dutchyspizza.com<br>+1 707-826-1032]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.089461,40.87157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mosgo's Coffee House]]></name>
+        <description><![CDATA[2461 Alliance Rd, Arcata, CA 95521<br>www.facebook.com/MosgosCoffeeHouse/<br>+1 707-826-1195]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.091065,40.884137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hole In the Wall Great Sandwiches</name>
+        <description><![CDATA[590 G St, Arcata, CA 95521<br>+1 707-822-7407]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0864945,40.8662907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pauls Live From New York Arcata</name>
+        <description><![CDATA[665 Samoa Blvd, Arcata, CA 95521<br>www.paulslivefromnewyorkpizza.com<br>+1 707-822-6199]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0869444,40.8644444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Samoa Cookhouse</name>
+        <description><![CDATA[908 Vance Ave, Samoa, CA 95564<br>www.samoacookhouse.net<br>+1 707-442-1659]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1817268,40.8197477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Café Marina & Woodley's Bar]]></name>
+        <description><![CDATA[601 Startare Dr, Eureka, CA 95501<br>www.cafemarina.net<br>+1 707-443-2233]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1628951,40.808265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jack's Seafood]]></name>
+        <description><![CDATA[4 C St B, Eureka, CA 95501<br>www.jackseafoodeureka.com<br>+1 707-273-5273]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1706249,40.8053896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bayfront Restaurant</name>
+        <description><![CDATA[1 F St, Eureka, CA 95501<br>+1 707-443-7489]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1666412,40.8058853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Café Waterfront</name>
+        <description><![CDATA[102 F St, Eureka, CA 95501<br>www.cafewaterfronteureka.com<br>+1 707-443-9190]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.166879,40.8050559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Bagels</name>
+        <description><![CDATA[403 2nd St, Eureka, CA 95501<br>www.losbagels.com<br>+1 707-442-8525]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.167503,40.8044277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vista Del Mar</name>
+        <description><![CDATA[91 Commercial St, Eureka, CA 95501<br>+1 707-443-3770]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1740507,40.8042862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Five Eleven</name>
+        <description><![CDATA[511 2nd St, Eureka, CA 95501<br>www.fiveeleveneureka.com<br>+1 707-268-3852]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.16629,40.8046949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Humboldt Bay Provisions</name>
+        <description><![CDATA[205 G St, Eureka, CA 95501<br>www.humboldtbayprovisions.com<br>+1 707-672-3850]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1652729,40.8043808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A Taste of Bim</name>
+        <description><![CDATA[613 3rd St, Eureka, CA 95501<br>www.atasteofbim.com<br>+1 707-798-6300]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1649878,40.8039056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Madrone - Brick Fire Pizza and Taphouse</name>
+        <description><![CDATA[421 3rd St, Eureka, CA 95501<br>www.madronetaphouse.com<br>+1 707-273-5129]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1668374,40.8036889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Old Town Coffee & Chocolates]]></name>
+        <description><![CDATA[211 F St, Eureka, CA 95501<br>www.oldtowncoffeeeureka.com<br>+1 707-445-8600]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.166409,40.804216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oberon Grill</name>
+        <description><![CDATA[516 2nd St, Eureka, CA 95501<br>www.oberongrill.net<br>+1 707-443-3663]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1659735,40.8043977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Greene Lily</name>
+        <description><![CDATA[307 2nd St, Eureka, CA 95501<br>www.thegreenelilycafe.com<br>+1 707-798-6083]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1685302,40.8043199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gallagher's Irish Pub]]></name>
+        <description><![CDATA[139 2nd St, Eureka, CA 95501<br>www.gallaghers-irishpub.com<br>+1 707-442-1177]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1699882,40.8040575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chapala Café</name>
+        <description><![CDATA[201 2nd St, Eureka, CA 95501<br>www.chapalacafe.com<br>+1 707-443-9514]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1696226,40.8041431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ramone's Bakery & Cafe]]></name>
+        <description><![CDATA[209 E St, Eureka, CA 95501<br>www.ramonesbakery.com<br>+1 707-445-2923]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1674583,40.8040111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Opera Alley Bistro</name>
+        <description><![CDATA[409 Opera Alley, Eureka, CA 95501<br>www.operaalleybistro.com<br>+1 707-442-0121]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1672992,40.8039439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bandit Savory & Sweet Cafe]]></name>
+        <description><![CDATA[525 2nd St #101, Eureka, CA 95501<br>www.facebook.com/Bandit.SavorySweet/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1659561,40.8046115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Smug's Pizza]]></name>
+        <description><![CDATA[626 2nd St, Eureka, CA 95501<br>www.smugs-pizza-eureka.business.site<br>+1 707-268-8082]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.164801,40.8045629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sea Grill</name>
+        <description><![CDATA[316 E St, Eureka, CA 95501<br>www.seagrilleureka.com<br>+1 707-443-7187]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1675341,40.8030899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pho Thiên Long</name>
+        <description><![CDATA[307 4th St, Eureka, CA 95501<br>+1 707-445-4735]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1681984,40.8027034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Delish on 5th Kitchen Store and Modern Deli</name>
+        <description><![CDATA[440 F St, Eureka, CA 95501<br>www.delishon5th.com<br>+1 707-273-5155]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1662591,40.8021236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Surfside Burger Shack</name>
+        <description><![CDATA[445 5th St, Eureka, CA 95501<br>www.surfsideburgershack.com<br>+1 707-268-1295]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.166386,40.802042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Domino's Pizza]]></name>
+        <description><![CDATA[500 5th St, Eureka, CA 95501<br>www.dominos.com<br>+1 707-442-3030]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1656792,40.8018466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amigas Burritos</name>
+        <description><![CDATA[317 5th St #0305, Eureka, CA 95501<br>www.amigas-burritos.business.site<br>+1 707-443-3373]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1677068,40.8018386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Humboldt Smokehouse</name>
+        <description><![CDATA[310 5th St, Eureka, CA 95501<br>www.humboldtsmokehouse.com<br>+1 707-497-6261]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1677415,40.8015309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starbucks</name>
+        <description><![CDATA[326 5th St, Eureka, CA 95501<br>www.starbucks.com<br>+1 707-445-2685]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.167313,40.801629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Denny's]]></name>
+        <description><![CDATA[136 5th St, Eureka, CA 95501<br>www.locations.dennys.com<br>+1 707-445-0521]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1694015,40.801266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mermaid Sushi</name>
+        <description><![CDATA[25 4th St, Eureka, CA 95501<br>www.mermaidsushi.com<br>+1 707-443-6027]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1712962,40.802515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[A A Bar & Grill]]></name>
+        <description><![CDATA[929 4th St, Eureka, CA 95501<br>www.aabarandgrill.net<br>+1 707-443-1632]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1611753,40.8035939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Raliberto's Taco Shop]]></name>
+        <description><![CDATA[1039 4th St, Eureka, CA 95501<br>+1 707-273-5290]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1598348,40.8038144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taqueria Martinez</name>
+        <description><![CDATA[Eureka, CA 95501<br>+1 707-298-9469]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1534803,40.8049238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tandoori Bites Indian Cuisine</name>
+        <description><![CDATA[1735 4th St, Eureka, CA 95501<br>www.tandooribitesindianeureka.com<br>+1 707-442-6500]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1527958,40.804918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Patria Mariscos and Grill</name>
+        <description><![CDATA[1718 4th St, Eureka, CA 95501<br>www.lapatriamgrestaurant.com<br>+1 707-407-3848]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1532107,40.8045473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sammy's BBQ & Catering]]></name>
+        <description><![CDATA[1709 5th St, Eureka, CA 95501<br>www.sammysbbqcatering.com<br>+1 707-443-4227]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1533312,40.8040754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pachanga Mexicana</name>
+        <description><![CDATA[1802 5th St, Eureka, CA 95501<br>www.pachangamexicana.com<br>+1 707-442-2587]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1523594,40.8037149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jitter Bean Coffee Co</name>
+        <description><![CDATA[1836 5th St, Eureka, CA 95501<br>www.jitterbeancoffee.com<br>+1 707-444-8130]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.151733,40.803582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco brothers</name>
+        <description><![CDATA[1415 5th St, Eureka, CA 95501<br>+1 707-572-2341]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1558803,40.8035678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dutch Bros Coffee</name>
+        <description><![CDATA[430 N St, Eureka, CA 95501<br>www.locations.dutchbros.com<br>+1 541-955-4700]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1576375,40.8033315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rita's Margaritas and Mexican Grill]]></name>
+        <description><![CDATA[1111 5th St, Eureka, CA 95501<br>www.ritascafe.com<br>+1 707-443-5458]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1590601,40.8030805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los sinaloenses</name>
+        <description><![CDATA[1134 5th St, Eureka, CA 95501<br>www.los-sinaloense.business.site<br>+1 707-407-0052]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1586722,40.802725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CBT Dungeon Express</name>
+        <description>924 5th St, Eureka, CA 95501</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1609554,40.8024883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Grind Cafe</name>
+        <description><![CDATA[734 5th St, Eureka, CA 95501<br>+1 707-445-3899]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.162947,40.802207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sixth and E Neighborhood Eatery</name>
+        <description><![CDATA[603 E St, Eureka, CA 95501<br>www.sixthande.com<br>+1 707-445-8783]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1666794,40.8008079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Paul's Live From New York Pizza]]></name>
+        <description><![CDATA[604 F St, Eureka, CA 95501<br>www.paulslivefromnewyorkpizza.com<br>+1 707-442-5800]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1660082,40.8009101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[A & J Ichiban]]></name>
+        <description><![CDATA[615 F St, Eureka, CA 95501<br>www.facebook.com/ichibanaj/<br>+1 707-273-5299]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1654666,40.8009423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Annie's Cambodian Cuisine]]></name>
+        <description><![CDATA[1917 5th St, Eureka, CA 95501<br>www.anniescambodian.com<br>+1 707-442-1556]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.151031,40.8040355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siam Orchid Thai Cuisine</name>
+        <description><![CDATA[427 V St, Eureka, CA 95501<br>www.siamorchidca.com<br>+1 707-407-3838]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1490465,40.8041789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Z & J Asian Subs]]></name>
+        <description><![CDATA[2336 3rd St, Eureka, CA 95501<br>www.zandjasiansubs.com<br>+1 707-268-1188]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1464352,40.8052994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Humboldt Bay Bistro</name>
+        <description><![CDATA[1436 2nd St, Eureka, CA 95501<br>www.humboldtbaybistro.com<br>+1 707-443-7339]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1562793,40.8062365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Angelo's Pizza Parlor]]></name>
+        <description><![CDATA[215 W 7th St, Eureka, CA 95501<br>www.angelospizzaparlormenu.com<br>+1 707-444-9644]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1731898,40.7987208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luzmila’s Mexican Restaurant</name>
+        <description><![CDATA[823 Broadway St, Eureka, CA 95501<br>www.facebook.com/Luzmilas-Mexican-Restaurant-208188105867679/<br>+1 707-269-2618]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1747714,40.7985523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tacos El Pueblo</name>
+        <description><![CDATA[301 W Washington St, Eureka, CA 95501<br>+1 707-683-6560]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1744143,40.7983383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mike's Drive Up]]></name>
+        <description><![CDATA[637 Broadway St, Eureka, CA 95501<br>www.mikesdriveup.com<br>+1 707-442-4755]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1748407,40.7991568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porter Street BBQ of Eureka</name>
+        <description><![CDATA[605 Broadway St, Eureka, CA 95501<br>www.facebook.com/Porter-Street-Barbeque-155525104461292/<br>+1 707-443-1700]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1748239,40.7997289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kristina's Restaurant]]></name>
+        <description><![CDATA[250 W 5th St, Eureka, CA 95501<br>+1 707-444-3322]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1748688,40.8008955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Panda Cafe</name>
+        <description><![CDATA[1010 Broadway St, Eureka, CA 95501<br>+1 707-443-2786]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1753416,40.7972765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dutch Bros Coffee</name>
+        <description><![CDATA[1108 Broadway, Eureka, CA 95501<br>www.locations.dutchbros.com<br>+1 541-955-4700]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1758598,40.7963381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jitter Bean Coffee Co</name>
+        <description><![CDATA[1225 Broadway St, Eureka, CA 95501<br>www.jitterbeancoffee.com<br>+1 707-442-5042]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.175605,40.7953912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hole In the Wall</name>
+        <description><![CDATA[1331 Broadway St, Eureka, CA 95501<br>+1 707-443-5362]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1762989,40.7944167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Speedy Taco Truck</name>
+        <description><![CDATA[1688-1698 Broadway St, Eureka, CA 95501<br>+1 707-499-0324]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1777963,40.7921317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Adel's Restaurant]]></name>
+        <description><![CDATA[1724 Broadway St, Eureka, CA 95501<br>+1 707-445-9777]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1785818,40.7918034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eureka Village Pantry</name>
+        <description><![CDATA[1912 Broadway St, Eureka, CA 95501<br>www.villagepantryrestaurant.com<br>+1 707-443-8174]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1793344,40.7904943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>In-N-Out Burger</name>
+        <description><![CDATA[2616 Broadway St, Eureka, CA 95501<br>www.locations.in-n-out.com<br>+1 800-786-1000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1835449,40.7842906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chipotle Mexican Grill</name>
+        <description><![CDATA[2626 Broadway St Suite 100, Eureka, CA 95501<br>www.locations.chipotle.com<br>+1 707-502-3294]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1843457,40.7842795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gold Rush On Broadway</name>
+        <description><![CDATA[2742 Broadway St, Eureka, CA 95501<br>www.goldrushcoffee.com<br>+1 707-442-2333]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1838482,40.7833172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Applebee's Grill + Bar]]></name>
+        <description><![CDATA[2846 Broadway St, Eureka, CA 95501<br>www.restaurants.applebees.com<br>+1 707-269-0533]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1846067,40.7823062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mountain Mike's Pizza]]></name>
+        <description><![CDATA[3144 Broadway Street Suites C-3,C-4,C-5, Eureka, CA 95501<br>www.mountainmikespizza.com<br>+1 707-268-1100]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1865477,40.7805362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Happy Donuts</name>
+        <description><![CDATA[2916 Central Ave, Eureka, CA 95501<br>www.happy-donuts-eureka.edan.io<br>+1 707-443-6812]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1808485,40.7816219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Jerk Kitchen</name>
+        <description><![CDATA[427 W Harris St, Eureka, CA 95503<br>+1 707-407-0586]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1754265,40.7803034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Papa Murphy's | Take 'N' Bake Pizza]]></name>
+        <description><![CDATA[407 Henderson St, Eureka, CA 95501<br>www.locations.papamurphys.com<br>+1 707-443-9977]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1643654,40.7830615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oaxaca Grill Restaurant</name>
+        <description><![CDATA[508 Henderson St F, Eureka, CA 95501<br>+1 707-445-9702]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1632661,40.7827001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Esmeralda's 2.0 Authentic Mexican Restaurant]]></name>
+        <description><![CDATA[328 Grotto St, Eureka, CA 95501<br>www.eurekasbestmexicanfood.net<br>+1 707-442-0887]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.165109,40.7815214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fresh Freeze Drive-In</name>
+        <description><![CDATA[3023 F St, Eureka, CA 95501<br>www.freshfreezeeureka.com<br>+1 707-442-6967]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1632534,40.7807451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Brick & Fire]]></name>
+        <description><![CDATA[1630 F St, Eureka, CA 95501<br>www.brickandfirebistro.com<br>+1 707-268-8959]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1638231,40.7923258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eureka Stars Hamburgers</name>
+        <description><![CDATA[2009 Harrison Ave, Eureka, CA 95501<br>www.eureka-stars-hamburges.business.site<br>+1 707-445-2061]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1393118,40.7892318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tea Garden Cafe</name>
+        <description><![CDATA[1338 Myrtle Avenue, Eureka, CA 95501<br>+1 707-445-9238]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.143895,40.79766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ultimate Yogurt</name>
+        <description><![CDATA[1117 Myrtle Avenue, Eureka, CA 95501<br>+1 707-443-9646]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1471267,40.7993281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Caesars Pizza</name>
+        <description><![CDATA[906 West Ave, Eureka, CA 95501<br>www.littlecaesars.com<br>+1 707-442-4444]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.14848,40.800938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ramone's Bakery & Cafe]]></name>
+        <description><![CDATA[2297 Harrison Ave, Eureka, CA 95501<br>www.ramonesbakery.com<br>+1 707-442-1336]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1393945,40.7872187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LoCo Fish Co. Eureka</name>
+        <description><![CDATA[1648 Myrtle Avenue, Eureka, CA 95501<br>www.locofishco.com<br>+1 707-601-8573]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1363498,40.7941564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cutten Chalet</name>
+        <description><![CDATA[3980 Walnut Dr, Eureka, CA 95503<br>+1 707-798-6480]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1432966,40.7702918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Babe's Pizza & Pasta]]></name>
+        <description><![CDATA[4015 Walnut Dr, Eureka, CA 95503<br>www.babespizzapasta.com<br>+1 707-442-3839]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1426391,40.7694244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Chin's Cafe]]></name>
+        <description><![CDATA[4200 Broadway St, Eureka, CA 95503<br>+1 707-443-0615]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.192036,40.7682518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Harvest Cafe</name>
+        <description><![CDATA[1707 Allard Ave, Eureka, CA 95503<br>www.goldenharvestcafe.com<br>+1 707-442-1610]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1910973,40.7730419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tres Chiles Picosos</name>
+        <description><![CDATA[3502 Broadway St, Eureka, CA 95503<br>www.treschilespicosos.com<br>+1 707-268-8255]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1906899,40.7752318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chinese Gourmet Express</name>
+        <description><![CDATA[3300 Broadway St #604, Eureka, CA 95501<br>www.chinese-gourmet-express.com<br>+1 707-268-8158]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1906851,40.7787925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Philly Cheese Steak Shoppe - Eureka</name>
+        <description><![CDATA[3050 Broadway St, Eureka, CA 95501<br>www.phillycs.com<br>+1 707-442-7400]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1853921,40.7808686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <description><![CDATA[3080 Broadway St, Eureka, CA 95501<br>www.locations.tacobell.com<br>+1 707-268-0384]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1857341,40.7806737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Carl's Jr.]]></name>
+        <description><![CDATA[3160 So, Broadway St, Eureka, CA 95501<br>www.carlsjr.com<br>+1 707-442-1690]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1862786,40.7801951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kentucky Fried Chicken</name>
+        <description><![CDATA[2245 Broadway St, Eureka, CA 95501<br>+1 707-840-5579]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1805355,40.7872726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Donut Mill</name>
+        <description><![CDATA[1411 4th St, Eureka, CA 95501<br>+1 707-444-8985]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1562781,40.8043277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[McDonald's]]></name>
+        <description><![CDATA[1730 4th St, Eureka, CA 95501<br>www.mcdonalds.com<br>+1 707-442-8821]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.152767,40.804449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burger King</name>
+        <description><![CDATA[417 S St, Eureka, CA 95501<br>www.burgerking.com<br>+1 707-442-8104]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1522804,40.8043457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Subway</name>
+        <description><![CDATA[1906 4th St, Eureka, CA 95501<br>www.restaurants.subway.com<br>+1 707-441-1868]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.151308,40.8045532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Humboldt Soup Company</name>
+        <description><![CDATA[1019 Myrtle Avenue, Eureka, CA 95501<br>www.humboldtsoupcompany.com<br>+1 707-268-8298]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.14864,40.80011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Luis's Mexican]]></name>
+        <description><![CDATA[946 West Ave, Eureka, CA 95501<br>www.luissrestaurant.com<br>+1 707-444-2508]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.148193,40.8003918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taqueria La Barca Taco Truck</name>
+        <description><![CDATA[1434 Myrtle Avenue, Eureka, CA 95501<br>+1 707-572-8670]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1428094,40.7973627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big Island Kine</name>
+        <description><![CDATA[1648 Myrtle Avenue, Eureka, CA 95501<br>www.facebook.com/bigislandkine/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1362631,40.7942543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[McDonald's]]></name>
+        <description><![CDATA[3450 S Broadway, Eureka, CA 95503<br>www.mcdonalds.com<br>+1 707-442-5981]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1907022,40.7763455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cocina Mariposa</name>
+        <description><![CDATA[4750 Fairway Dr, Eureka, CA 95503<br>www.cocinamariposa.com<br>+1 707-599-2469]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1698438,40.7584754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shamus T Bones</name>
+        <description><![CDATA[1911 Truesdale St, Eureka, CA 95503<br>www.shamustbones.com<br>+1 707-407-3550]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.193123,40.775833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Island Delight</name>
+        <description><![CDATA[401 W Harris St, Eureka, CA 95503<br>+1 707-407-0507]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.17493,40.7803221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Diver Bar & Grill]]></name>
+        <description><![CDATA[2834 F St, Eureka, CA 95501<br>+1 707-798-6184]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1638423,40.7823231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manzanilla</name>
+        <description><![CDATA[2850 F St, Eureka, CA 95501<br>+1 707-407-0351]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1638794,40.7819239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunan Restaurant</name>
+        <description><![CDATA[2912 E St, Eureka, CA 95501<br>www.hunaneureka.com<br>+1 707-444-9241]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1647883,40.7812861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafe Nooner Too</name>
+        <description><![CDATA[2910 E St, Eureka, CA 95501<br>www.cafenooner.com<br>+1 707-407-3664]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1649017,40.7813721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cherry Blossom Bakery</name>
+        <description><![CDATA[2940 E St, Eureka, CA 95501<br>www.cherryblossombakery.weebly.com<br>+1 707-443-0576]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1649337,40.7808734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Boardroom</name>
+        <description><![CDATA[3750 Harris St, Eureka, CA 95503<br>www.boardroomeureka.com<br>+1 707-572-5129]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1278733,40.7799215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chicago Dog House</name>
+        <description><![CDATA[428 Grotto St, Eureka, CA 95501<br>+1 707-502-8511]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1639141,40.7815368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gill's By the Bay]]></name>
+        <description><![CDATA[77 Halibut Ave, Eureka, CA 95503<br>www.gillsbythebay.com<br>+1 707-442-2554]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2197551,40.7367968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sushi Blue</name>
+        <description><![CDATA[777 Casino Way, Blue Lake, CA 95525<br>www.bluelakecasino.com<br>+1 877-252-2946]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.9998675,40.8854804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burger Barn</name>
+        <description><![CDATA[CA-96, Hoopa, CA 95546<br>+1 530-625-9100]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.6865995,41.0657804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Subway</name>
+        <description><![CDATA[39123 CA-299, Willow Creek, CA 95573<br>www.restaurants.subway.com<br>+1 530-629-4142]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.6289966,40.9390842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Early Bird / Bigfoot Burgers</name>
+        <description><![CDATA[40640 CA-299, Willow Creek, CA 95573<br>+1 530-629-4431]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.6193472,40.9191583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bigfoot Steakhouse</name>
+        <description><![CDATA[19 Willow Way, Willow Creek, CA 95573<br>www.bigfootsteakhouse.com<br>+1 530-739-2614]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.6268565,40.9383012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pizza Factory</name>
+        <description><![CDATA[39032 CA-299, Willow Creek, CA 95573<br>www.willow-creek.pizzafactory.com<br>+1 530-629-4800]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.6308439,40.9389719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ol' Rusty's]]></name>
+        <description><![CDATA[Willow Creek, CA 95573<br>+1 530-629-3663]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.6292131,40.9386297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aztec Grill</name>
+        <description><![CDATA[39103 CA-299, Willow Creek, CA 95573<br>www.redwoodoil.com<br>+1 530-629-3269]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.629263,40.9392493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gonzalez Mexican Restaurant</name>
+        <description><![CDATA[38971 CA-299, Willow Creek, CA 95573<br>www.gonzlaezmexicanrestaurant.com<br>+1 530-739-2586]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.6318385,40.939788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raging Creek Pub</name>
+        <description><![CDATA[38939 CA-299, Willow Creek, CA 95573<br>www.orders.cake.net<br>+1 530-768-8687]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.6325261,40.9400189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafe</name>
+        <description>39008 CA-299, Willow Creek, CA 95573</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.6311278,40.939545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Espresso & More]]></name>
+        <description><![CDATA[39063 CA-299, Willow Creek, CA 95573<br>www.espresso-more.edan.io<br>+1 530-629-4193]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.629946,40.939418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thirsty Bear Lounge</name>
+        <description><![CDATA[11 Bear Paws Way, Loleta, CA 95551<br>www.bearrivercasino.com<br>+1 707-733-9644]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.207966,40.627386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rivers Edge Grill & Bar]]></name>
+        <description><![CDATA[11 Bear Paws Way, Loleta, CA 95551<br>www.bearrivercasino.com<br>+1 707-733-9644]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2087924,40.6268983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ridgetop Café & Coffee Barn]]></name>
+        <description><![CDATA[623 Fernbridge Dr, Fortuna, CA 95540<br>www.facebook.com/RidgetopCafe/<br>+1 707-786-3900]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2012626,40.6163377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Double D Steak & Seafood]]></name>
+        <description><![CDATA[320 Main St, Fortuna, CA 95540<br>www.facebook.com/Double-D-Steak-1459080737743461/<br>+1 707-725-3700]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1656404,40.5996922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hot Deli</name>
+        <description><![CDATA[939 Main St, Fortuna, CA 95540<br>+1 707-362-1976]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1569422,40.5977977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[L's Kitchen]]></name>
+        <description><![CDATA[Fortuna, CA 95540<br>+1 707-726-7779]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1535471,40.5981244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kome Restaurant</name>
+        <description><![CDATA[679 S Fortuna Blvd, Fortuna, CA 95540<br>www.komefortuna.com<br>+1 707-725-8899]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1463126,40.5851158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bob's Footlongs]]></name>
+        <description><![CDATA[505 12th St #2327, Fortuna, CA 95540<br>www.bobsfootlongs.com<br>+1 707-725-2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.154043,40.596468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shotz Coffee and Drive Thru</name>
+        <description><![CDATA[1665 Main St, Fortuna, CA 95540<br>www.shotzcoffeefortuna.com<br>+1 707-725-8000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1488996,40.597578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunan Village</name>
+        <description><![CDATA[1468 Main St, Fortuna, CA 95540<br>www.hunanfortuna.com<br>+1 707-725-3459]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1512877,40.5982109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Las Cazuelas Restaurant & Cantina]]></name>
+        <description><![CDATA[435 N Fortuna Blvd, Fortuna, CA 95540<br>+1 707-725-2431]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1456198,40.5948028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Costa Mexican Restaurant</name>
+        <description><![CDATA[664 S Fortuna Blvd, Fortuna, CA 95540<br>+1 707-725-9416]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1471156,40.5851451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[McDonald's]]></name>
+        <description><![CDATA[761 S Fortuna Blvd, Fortuna, CA 95540<br>www.mcdonalds.com<br>+1 707-725-9530]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1463848,40.5824353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Eel River Brewing Company - Pub & Restaurant]]></name>
+        <description><![CDATA[1777 Alamar Way, Fortuna, CA 95540<br>www.eelriverbrewing.com<br>+1 707-725-2739]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1529821,40.5793621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starbucks</name>
+        <description><![CDATA[1095 S Fortuna Blvd #4A, Fortuna, CA 95540<br>www.starbucks.com<br>+1 707-726-7870]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.14635,40.578916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Loco</name>
+        <description><![CDATA[955 Main St, Fortuna, CA 95540<br>www.facebook.com/pages/Taco-Loco-Mexican-Restaurant/851873208173032<br>+1 707-725-5546]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1568217,40.5977508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Redwood Café</name>
+        <description><![CDATA[1206 Main St, Fortuna, CA 95540<br>+1 707-725-3998]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.154286,40.598168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fresh on Main Street</name>
+        <description><![CDATA[1044 Main St, Fortuna, CA 95540<br>www.freshonmainstreet.com<br>+1 707-616-6447]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1558301,40.5981196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Caesars Pizza</name>
+        <description>898 Main St, Fortuna, CA 95540</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1577948,40.5982231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Trish's out of the way cafe]]></name>
+        <description><![CDATA[2865 School St, Fortuna, CA 95540<br>+1 707-726-7885]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1365585,40.5703887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Murrish Market</name>
+        <description><![CDATA[3415 CA-36, Hydesville, CA 95547<br>+1 707-768-3604]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0961813,40.5479531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tornado Dave's Bar & Grill]]></name>
+        <description><![CDATA[5427 CA-36, Carlotta, CA 95528<br>www.facebook.com/tornadodavesrestaurant/<br>+1 707-851-3501]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0597306,40.5376028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wildwood Waffles</name>
+        <description><![CDATA[770 Wildwood Ave, Rio Dell, CA 95562<br>+1 707-506-3073]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1058591,40.5007402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[D J's Burger Bar]]></name>
+        <description><![CDATA[509 Wildwood Ave, Rio Dell, CA 95562<br>www.d-js-burger-bar.edan.io<br>+1 707-764-2924]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.105104,40.4964708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pizza Factory</name>
+        <description><![CDATA[185 Wildwood Ave, Rio Dell, CA 95562<br>www.pizzafactory.com<br>+1 707-764-2233]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1026363,40.4939121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Patron Kitchen</name>
+        <description><![CDATA[70 B Wildwood Ave, Rio Dell, CA 95562<br>www.the-patron-kitchen.poi.place<br>+1 707-499-2494]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1009982,40.493107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shotz Coffee</name>
+        <description><![CDATA[541 Wildwood Ave, Rio Dell, CA 95562<br>www.shotzcoffeeriodell.com<br>+1 707-783-3502]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1054233,40.4966347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lety's Kitchen & Coffee]]></name>
+        <description><![CDATA[128 Wildwood Ave, Rio Dell, CA 95562<br>+1 707-764-2010]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.102102,40.494073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Redwood Palace</name>
+        <description><![CDATA[6735 Avenue of the Giants, Miranda, CA 95553<br>www.redwoodpalacemiranda.com<br>+1 707-223-5749]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8241631,40.2353577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenue Cafe</name>
+        <description><![CDATA[6743 Avenue Of The Giants, Highway, Miranda, CA 95553<br>www.avenuecafe.biz<br>+1 707-943-9945]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.824081,40.2355433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sips: Organic Coffee & More]]></name>
+        <description><![CDATA[6771 CA-254, Miranda, CA 95553<br>www.facebook.com/SipsCoffeeMiranda/<br>+1 707-601-8901]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8241528,40.2361527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Honeydew Hideout</name>
+        <description><![CDATA[44670 Mattole Rd, Honeydew, CA 95545<br>+1 707-629-3636]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1237849,40.2435002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VI Restaurant</name>
+        <description><![CDATA[400 Ocean Ave, Ferndale, CA 95536<br>www.virestaurant.com<br>+1 707-786-4950]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2649334,40.575464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Poppa Joe's]]></name>
+        <description><![CDATA[409 Main St, Ferndale, CA 95536<br>www.facebook.com/PoppaJoes/<br>+1 707-786-4180]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.263958,40.576653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Fat Anne's Bakery & Bistro]]></name>
+        <description><![CDATA[460 Main St, Ferndale, CA 95536<br>www.fatannesbakerybistro.com<br>+1 707-786-9286]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.263131,40.576754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sweetness & Light]]></name>
+        <description><![CDATA[554 Main St, Ferndale, CA 95536<br>www.sweetnessandlight.com<br>+1 800-547-8180]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2624674,40.577479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Main Street Coffee Co</name>
+        <description><![CDATA[582 Main St, Ferndale, CA 95536<br>www.mainstreetcoffeeco.business.site<br>+1 707-786-4114]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.262118,40.57746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ferndale Pizza Co.</name>
+        <description><![CDATA[607 Main St, Ferndale, CA 95536<br>www.facebook.com/FerndalePizzaCo/<br>+1 707-786-4345]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2624869,40.5780432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tuyas</name>
+        <description><![CDATA[553 Main St, Ferndale, CA 95536<br>www.tuyasferndale.com<br>+1 707-786-5921]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2628324,40.5776476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>No Brand Burger Stand</name>
+        <description><![CDATA[1400 Main St C, Ferndale, CA 95536<br>www.no-brand-burger-stand.poi.place<br>+1 707-786-9474]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2575309,40.5867515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pineapple Express Food Truck</name>
+        <description><![CDATA[822 Redwood Dr, Garberville, CA 95542<br>www.facebook.com/pineappleexpressfoodtruck<br>+1 808-387-6101]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7953761,40.0986712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Lost Frenchman</name>
+        <description><![CDATA[3344 Redwood Dr, Garberville, CA 95560<br>www.facebook.com/thelostfrenchman/<br>+1 707-923-2030]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8225107,40.1193167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Cecil's New Orleans Bistro]]></name>
+        <description><![CDATA[773 Redwood Dr, Garberville, CA 95542<br>+1 707-923-7007]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7945377,40.100693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eel River Cafe</name>
+        <description><![CDATA[801 Redwood Dr, Garberville, CA 95542<br>www.ordereelrivercafe.com<br>+1 707-923-3783]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7946426,40.1002228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Calico's Deli & Pasta]]></name>
+        <description><![CDATA[808 Redwood Dr, Garberville, CA 95542 www.facebook.com/calicos9636/<br>+1 707-923-2253]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7952278,40.1000639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Getti Up</name>
+        <description><![CDATA[849 Redwood Dr, Garberville, CA 95542<br>+1 707-923-7231]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7947177,40.0993118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Amillia's]]></name>
+        <description><![CDATA[443 Melville Rd, Garberville, CA 95542<br>www.amillias.com<br>+1 707-923-4340]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.794075,40.0979506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Humboldt Bar & Grill]]></name>
+        <description><![CDATA[924 Redwood Dr, Garberville, CA 95542<br>+1 707-923-2453]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.795382,40.097632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodrose Cafe</name>
+        <description><![CDATA[911 Redwood Dr, Garberville, CA 95542<br>www.thewoodrosecafe.com<br>+1 707-923-3191]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7948381,40.0982151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nacho Mama</name>
+        <description><![CDATA[377 Sprowl Creek Rd, Garberville, CA 95542<br>www.facebook.com/humboldtnachomama<br>+1 707-923-4060]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7955265,40.0993681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cadillac Wok</name>
+        <description><![CDATA[373 Sprowl Creek Rd, Garberville, CA 95542<br>+1 707-923-2343]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7957789,40.099384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mi Mochima (and The Catch at MiMochima's)]]></name>
+        <description><![CDATA[210 Wave Dr, Whitethorn, CA 95589<br>www.facebook.com/mimochimarestaurant/<br>+1 707-358-0460]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0777926,40.0344136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Fish Tank</name>
+        <description><![CDATA[205 Wave Dr, Whitethorn, CA 95589<br>www.facebook.com/pages/The-Fish-Tank/91461513644<br>+1 707-986-7850]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0784995,40.0343847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Peg House</name>
+        <description><![CDATA[69501 US-101, Leggett, CA 95585<br>www.thepeghouse.com<br>+1 707-925-6444]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.727678,39.8782944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gyppo Ale Mill</name>
+        <description><![CDATA[1661 Upper Pacific Dr, Whitethorn, CA 95589<br>www.gyppo.com<br>+1 707-986-7700]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0687598,40.0248729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Shelter Cove Oceanfront Inn</name>
+        <description><![CDATA[26 Seal Dr, Whitethorn, CA 95589<br>www.oceanfrontinnsc.com<br>+1 707-986-7002]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0710277,40.022732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Delgada Pizza And Bakery</name>
+        <description><![CDATA[205 Wave Dr, Whitethorn, CA 95589<br>www.innofthelostcoast.com<br>+1 707-986-7672]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0784292,40.034627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benbow Historic Inn</name>
+        <description><![CDATA[445 Lake Benbow Dr, Garberville, CA 95542<br>www.benbowinn.com<br>+1 707-923-2124]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -123.789982,40.0675152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starbucks</name>
+        <description><![CDATA[1924 Central Ave, McKinleyville, CA 95519<br>www.starbucks.com<br>+1 707-840-0253]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.101434,40.940363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starbucks</name>
+        <description><![CDATA[2525 4th St, Eureka, CA 95501<br>www.starbucks.com<br>+1 707-442-0201]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.144035,40.80557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starbucks</name>
+        <description><![CDATA[2555 Harris St, Eureka, CA 95503<br>www.starbucks.com<br>+1 707-269-0133]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.138483,40.780935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starbucks</name>
+        <description><![CDATA[326 5th St, Eureka, CA 95501<br>www.starbucks.com<br>+1 707-445-2685]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.167313,40.801629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starbucks</name>
+        <description><![CDATA[450 Hwy, 101 N St, Crescent City, CA 95531<br>www.starbucks.com<br>+1 707-464-2080]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1980372,41.7617097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pizza Hut</name>
+        <description><![CDATA[835 Northcrest Dr, Crescent City, CA 95531<br>www.locations.pizzahut.com<br>+1 707-464-8308]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1970424,41.7642247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <description><![CDATA[370 M St, Crescent City, CA 95531<br>www.locations.tacobell.com<br>+1 707-465-6512]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1940051,41.7549061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toyama Sushi</name>
+        <description><![CDATA[389 M St #4118, Crescent City, CA 95531<br>www.toyamasushicrescentcity.com<br>+1 707-465-8932]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1928133,41.7558312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jack in the Box</name>
+        <description><![CDATA[1233 6th St, Crescent City, CA 95531<br>www.locations.jackinthebox.com<br>+1 707-465-3763]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1957952,41.7561387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dutch Bros Coffee</name>
+        <description><![CDATA[560 L St, Crescent City, CA 95531<br>www.locations.dutchbros.com<br>+1 541-955-4700]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1962161,41.7558524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Denny's]]></name>
+        <description><![CDATA[1225 5th St, Crescent City, CA 95531<br>www.locations.dennys.com<br>+1 707-464-2656]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1952076,41.7554077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Caesars Pizza</name>
+        <description><![CDATA[270 M St, Crescent City, CA 95531<br>www.littlecaesars.com<br>+1 707-464-2000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.19337,41.754265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[McDonald's]]></name>
+        <description><![CDATA[380 M St, Crescent City, CA 95531<br>www.mcdonalds.com<br>+1 707-464-1913]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1935026,41.7553406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burger King</name>
+        <description><![CDATA[1250 9th St, Crescent City, CA 95531<br>www.burgerking.com<br>+1 707-464-1714]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1977302,41.7586087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Java Hut</name>
+        <description><![CDATA[437 US-101 N, Crescent City, CA 95531<br>www.facebook.com/JavaHutEspresso/<br>+1 707-465-4439]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1975174,41.7608757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sally's by the Sea]]></name>
+        <description><![CDATA[1070 - B, US-101, Crescent City, CA 95531<br>www.facebook.com/SallysbytheSea/<br>+1 707-464-5111]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1935517,41.7669299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Dick Market</name>
+        <description><![CDATA[6670 Lake Earl Dr, Crescent City, CA 95531<br>www.fort-dick-market.edan.io<br>+1 707-487-0155]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1509358,41.8655451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Truely Scrumptious Cake</name>
+        <description><![CDATA[695 4th St, Smith River, CA 95567<br>www.truelyscrumptiouscake.com<br>+1 707-487-3054]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1523453,41.9311655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aztec Grill</name>
+        <description><![CDATA[315 US-101, Crescent City, CA 95531<br>www.redwoodoil.com<br>+1 707-465-1333]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1864624,41.7526473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apple Peddler</name>
+        <description><![CDATA[308 US-101, Crescent City, CA 95531<br>www.applepeddlerrestaurant.com<br>+1 707-464-5630]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1877012,41.7522073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Enoteca</name>
+        <description><![CDATA[960 3rd St, Crescent City, CA 95531<br>www.facebook.com/Enotecarestaurant/<br>+1 707-464-2909]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1966171,41.7531051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Carl's Jr.]]></name>
+        <description><![CDATA[4900 Valley W Blvd, Arcata, CA 95521<br>www.carlsjr.com<br>+1 707-822-9058]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0830453,40.9024644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[McDonald's]]></name>
+        <description><![CDATA[4901 Valley W Blvd, Arcata, CA 95521<br>www.mcdonalds.com<br>+1 707-822-0888]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0839478,40.902779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jitter Bean Coffee Co.</name>
+        <description><![CDATA[4950 Valley W Blvd, Arcata, CA 95521<br>www.jitterbeancoffee.com<br>+1 707-572-0152]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0828558,40.9035527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Wendy's]]></name>
+        <description><![CDATA[529 Broadway St, Eureka, CA 95501<br>www.locations.wendys.com<br>+1 707-441-4900]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1747332,40.800149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Pueblo Market Panaderia</name>
+        <description><![CDATA[312 W Washington St, Eureka, CA 95501<br>+1 707-444-0952]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1744271,40.7984406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jack in the Box</name>
+        <description><![CDATA[1620 Broadway St, Eureka, CA 95501<br>www.locations.jackinthebox.com<br>+1 707-407-0627]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.178153,40.7925304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aztec Grill</name>
+        <description><![CDATA[2806 Broadway St, Eureka, CA 95501<br>www.redwoodoil.com<br>+1 707-442-9999]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.184387,40.783018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Raliberto's Tacos Shop, Broadway]]></name>
+        <description><![CDATA[3220 Broadway St Suite A-8, Eureka, CA 95501<br>+1 707-407-0366]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1871452,40.7802382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Gallos Taqueria</name>
+        <description><![CDATA[3300 Broadway St Box 1, Eureka, CA 95501<br>+1 707-443-4631]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1904967,40.7790213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sansei Japan</name>
+        <description><![CDATA[3300 Broadway St Box 1, Eureka, CA 95501<br>+1 707-268-3948]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1906737,40.7788361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
